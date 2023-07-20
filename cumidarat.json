@@ -62,7 +62,7 @@
       "show_interstitial_ad_post_details": true,
       "show_native_ad_post_list": true,
       "show_native_ad_post_details": true,
-      "show_app_open_ad": false
+      "show_app_open_ad": true
     }
   ],
   "categories": [
